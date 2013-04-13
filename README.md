@@ -1,4 +1,4 @@
-blogger
-=======
+rails-rookies-blogger
+=====================
 
-My first Rails app!  It's a blog!
+Simple blog app for Rails Rookies Bootcamp
